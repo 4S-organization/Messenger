@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106651737191",
+    "firebase_url": "https://s4-messenger.firebaseio.com",
+    "project_id": "s4-messenger",
+    "storage_bucket": "s4-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106651737191:android:27a1b9b5e35081d1c848c2",
+        "android_client_info": {
+          "package_name": "a4s.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106651737191-dm4n0m8o65ng55g2gagvv53g3956q96u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKJQR_Qo7QzUrw6Qb77Ej30MRjQijPMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106651737191-dm4n0m8o65ng55g2gagvv53g3956q96u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
